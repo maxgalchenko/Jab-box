@@ -59,6 +59,12 @@ Open http://localhost:8000
 
 - None (no package.json)
 
+## Screenshots
+
+![Home](./images/screenshots/home.png)
+![Plans](./images/screenshots/plans.png)
+![Trainers](./images/screenshots/trainers.png)
+
 ---
 
 <div align="center">
